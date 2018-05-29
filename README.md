@@ -1,8 +1,11 @@
 # CRUD PHP Native
+<<<<<<< HEAD
 <video width="400" controls>
   <source src="video/CRUD-PHP-Native-1.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
+=======
+>>>>>>> 8e5b642cb683d830a04ad4a0561f897f28968b2b
 
 ## Pemilik
 Gita Citra Puspita
