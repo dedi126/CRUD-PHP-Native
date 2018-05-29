@@ -7,7 +7,7 @@
 - Menampilkan data pada tabel menggunakan datatables server side.
 - Aplikasi web ini menggunakan template bootstrap 3.
 
-## Struktur file dan folder yang digunakan pada aplikasi web
+## Struktur file dan folder yang digunakan pada aplikasi web ini
 
 - index.php : Tampilan utama
 - add.php : Formulir untuk tambah data
