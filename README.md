@@ -1,10 +1,7 @@
 ![Output Website](/image/CRUD-PHP-Native-1.png)
 
-# Detail
-- Aplikasi web ini menggunakan database mysql (kamu bisa mengecek file sql pada folder database).
-- Buat, ubah, ambil, dan hapus data menggunakan php native dengan fungsi mysqli.
-- Menampilkan data pada tabel menggunakan datatables server side.
-- Aplikasi web ini menggunakan template bootstrap 3.
+# Deskripsi
+Aplikasi web ini menggunakan database mysql (kamu bisa mengecek file sql pada folder database). Terdapat fungsi untuk membuat, mengubah, mengambil, dan menghapus data menggunakan php native dengan fungsi mysqli. Tabel yang digunakan pada web aplikais ini adlah datatables server side. 
 
 # Struktur File dan Folder
 
@@ -12,16 +9,14 @@
 - add.php : Formulir untuk tambah data
 - update.php : Formulir untuk ubah data
 - delete.php : Formulir untuk hapus data
-- database
+- database : Folder berisi file sql
 	- db_anggota.sql : database proyek ini
-- phpCode
-	- action_t_pegawai.php : file ini berisikan fungsi untuk tambah, hapus dan ubah data.
-	- queryCode.php: file ini berisi fungsi untuk membuat koneksi, tambah, hapus, ubah, dan ambil data. 
-- plugins
-- bootstrap
+- phpCode : Folder berisi fungsi action dari form dan juga fungsi CRUD mysqli
+	- action_t_pegawai.php : file ini berisikan fungsi untuk tambah, hapus dan ubah data
+	- queryCode.php: file ini berisi fungsi untuk membuat koneksi, tambah, hapus, ubah, dan ambil data
+- plugins : Berisi library jQuery dan datatables
+- bootstrap : Berisi library bootstrap
 
 # Artikel Tutorial
 
 # Video Tutorial
-
-# Copyright and License
