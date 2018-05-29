@@ -1,5 +1,6 @@
 # CRUD PHP Native
-<iframe class="embed-responsive-item"  width="854" height="480" src="https://www.youtube.com/embed/n5nKvqbE9lA?list=PLJukx4ECsgSlqURCv5aYjdJ8BS5zig_Ln" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Demo Aplikasi](https://img.youtube.com/vi/n5nKvqbE9lA/0.jpg)](https://youtu.be/n5nKvqbE9lA?list=PLJukx4ECsgSlqURCv5aYjdJ8BS5zig_Ln)
+
 
 ## Deskripsi
 Aplikasi web ini menggunakan database mysql (kamu bisa mengecek file sql pada folder database). Terdapat fungsi untuk membuat, mengubah, mengambil, dan menghapus data menggunakan php native dengan fungsi mysqli. Tabel yang digunakan pada web aplikasi ini adalah datatables. 
