@@ -64,7 +64,7 @@
 		var t = $('#tabel_data_pegawai').DataTable({
 				  "autoWidth": false,
 				  "rowCallback": function( row, data, index ) {
-					  $('td:eq(5)', row).html("<button class=\"btn btn-warning\" onClick=\"window.open('update.php?id="+data[0]+"','_self')\"><i class=\"fa fa-edit\"></i> Ubah</button>&nbsp;&nbsp;<button class=\"btn btn-danger\" onClick=\"window.open('delete.php?id="+data[0]+"','_self')\"><i class=\"fa fa-trash\"></i> Hapus</button>");
+					  $('td:eq(5)', row).html("<div class=\"btn-group\"><button class=\"btn btn-warning\" onClick=\"window.open('update.php?id="+data[0]+"','_self')\"><i class=\"fa fa-edit\"></i> Ubah</button>&nbsp;&nbsp;<button class=\"btn btn-danger\" onClick=\"window.open('delete.php?id="+data[0]+"','_self')\"><i class=\"fa fa-trash\"></i> Hapus</button></div>");
 				  },			  
 				  "columnDefs": [
 	    				{ "width": "2%", "sClass": "dt-head-center dt-body-center", "targets": 0 },
