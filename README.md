@@ -1,12 +1,12 @@
 ![Output Website](/image/CRUD-PHP-Native-1.png)
 
-# Informasi tentang aplikasi web ini
+# Detail
 - Aplikasi web ini menggunakan database mysql (kamu bisa mengecek file sql pada folder database).
 - Buat, ubah, ambil, dan hapus data menggunakan php native dengan fungsi mysqli.
 - Menampilkan data pada tabel menggunakan datatables server side.
 - Aplikasi web ini menggunakan template bootstrap 3.
 
-# Struktur file dan folder yang digunakan pada aplikasi web ini
+# Struktur File dan Folder
 
 - index.php : Tampilan utama
 - add.php : Formulir untuk tambah data
@@ -20,6 +20,8 @@
 - plugins
 - bootstrap
 
-# Artikel tutorial lengkap pembuatan aplikasi web ini
+# Artikel Tutorial
 
-# Video tutorial lengkap pembuatan aplikasi web ini
+# Video Tutorial
+
+# Copyright and License
