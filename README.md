@@ -1,7 +1,7 @@
 ![Output Website](/image/CRUD-PHP-Native-1.png)
 
 # Deskripsi
-Aplikasi web ini menggunakan database mysql (kamu bisa mengecek file sql pada folder database). Terdapat fungsi untuk membuat, mengubah, mengambil, dan menghapus data menggunakan php native dengan fungsi mysqli. Tabel yang digunakan pada web aplikais ini adlah datatables server side. 
+Aplikasi web ini menggunakan database mysql (kamu bisa mengecek file sql pada folder database). Terdapat fungsi untuk membuat, mengubah, mengambil, dan menghapus data menggunakan php native dengan fungsi mysqli. Tabel yang digunakan pada web aplikasi ini adalah datatables. 
 
 # Struktur File dan Folder
 
