@@ -30,7 +30,7 @@
 		<div class="row">
 			<div class="col-xs-12">
           <!-- Horizontal Form -->
-          <div class="box box-info">
+          <div class="box box-default">
             <div class="box-header with-border">
               <h3 class="box-title">Ubah Data Peserta</h3>
             </div>
@@ -76,7 +76,7 @@
               <!-- /.box-body -->
               <div class="box-footer">
 	                <button type="button" onclick="history.go(-1); return false;" class="btn btn-default">Batal</button>
-	                <button type="submit" class="btn btn-info pull-right">Ubah</button>
+	                <button type="submit" class="btn btn-success pull-right">Ubah</button>
               </div>
               <!-- /.box-footer -->
             </form>

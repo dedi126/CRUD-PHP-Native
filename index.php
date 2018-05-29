@@ -25,7 +25,7 @@
 				<div class="panel panel-primary">
 					<!-- panel-header -->
 					<div class="panel-header with-border">
-						<button class="btn btn-primary  pull-right" style="margin: 5px 15px;" onClick="window.open('add.php','_self')"><i class="fa fa-plus"></i>Tambah</button>
+						<button class="btn btn-primary  pull-right" style="margin: 5px 15px;" onClick="window.open('add.php','_self')"><i class="fa fa-plus"></i> Tambah</button>
 					</div>
 					<!-- /panel-header -->
 					<!-- view data -->
@@ -64,7 +64,7 @@
 		var t = $('#tabel_data_pegawai').DataTable({
 				  "autoWidth": false,
 				  "rowCallback": function( row, data, index ) {
-					  $('td:eq(5)', row).html("<button class=\"btn btn-warning\" onClick=\"window.open('update.php?id="+data[0]+"','_self')\"><i class=\"fa fa-edit\"></i>Ubah</button>&nbsp;&nbsp;<button class=\"btn btn-danger\" onClick=\"window.open('delete.php?id="+data[0]+"','_self')\"><i class=\"fa fa-trash\"></i>Hapus</button>");
+					  $('td:eq(5)', row).html("<button class=\"btn btn-warning\" onClick=\"window.open('update.php?id="+data[0]+"','_self')\"><i class=\"fa fa-edit\"></i> Ubah</button>&nbsp;&nbsp;<button class=\"btn btn-danger\" onClick=\"window.open('delete.php?id="+data[0]+"','_self')\"><i class=\"fa fa-trash\"></i> Hapus</button>");
 				  },			  
 				  "columnDefs": [
 	    				{ "width": "2%", "sClass": "dt-head-center dt-body-center", "targets": 0 },

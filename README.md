@@ -1,82 +1,40 @@
-<h2>Project</h2>
-crud-php-native-bootstrap-versi-3-no-modals
-<h2>Author</h2>
+# CRUD PHP Native
+<video width="400" controls>
+  <source src="video/CRUD-PHP-Native-1.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
+## Pemilik
 Gita Citra Puspita
-<h2>Create at</h2>
-Tuesday, 10 Nov 2016
-
-<h2>Modified</h2>
-NONE
-
-<h3>Information about this project</h3>
-<ul>
-	<li>This project using mysql database (you can check the SQL file on directory database).</li>
-	<li>Create, update, select, and delete data using php native with mysqli function.</li>
-	<li>View data into table using datatables server side.</li>
-	<li>Before add data into datatables, data will be generate into json.</li>
-	<li>This project using bootstrap and adminLTE templates</li>
-</ul>
-
-<h3>Structure file and directory on this project</h3>
-<ul>
-	<li>index.php : Main view </li>
-	<li>add.php : Form for add data</li>
-	<li>update.php : Form for update data</li>
-	<li>delete.php : Form for delete data</li>
-	<li>database </li>
-		<ul>
-			<li>db_anggota.sql : database of this project</li>
-		</ul>
-	</li>
-	<li>phpCode
-		<ul>
-			<li>action_t_pegawai.php : this file include function to add, delete, and update data.</li>
-			<li>queryCode.php: this file include function mysqli to create connection, insert, delete, update, and select data.</li>
-		</ul>
-	</li>
-	<li>plugins</li>
-	<li>bootstrap</li>
-	<li>readme.txt</li>
-</ul>
-
-<hr>
-
-<h2>Proyek</h2>
-crud-php-native-bootstrap-versi-3-no-modals
-<h2>Pemilik</h2>
-Gita Citra Puspita
-<h2>Dibuat Pada</h2>
+## Dibuat Pada
 Kamis, 10 Nov 2016
 
-<h2>Perubahan</h2>
+## Perubahan
 TIDAK ADA
 
-<h3>Informasi tentang proyek ini</h3>
-<ul>
-	<li>Proyek ini menggunakan database mysql (kamu bisa mengecek file sql pada folder database).</li>
-	<li>Buat, ubah, ambil, dan hapus data menggunakan php native dengan fungsi mysqli.</li>
-	<li>Menampilkan data pada tabel menggunakan datatables server side.</li>
-	<li>Sebelum memasukan data kedalam datatables, data diubah dalam bentu json.</li>
-	<li>Proyek ini menggunakan template bootstrap dan adminLTE.</li>
-</ul>
-<h3>Struktur file dan folder pada proyek ini</h3>
-<ul>
-	<li>index.php : Tampilan utama</li>
-	<li>add.php : Formulir untuk tambah data</li>
-	<li>update.php : Formulir untuk ubah data</li>
-	<li>delete.php : Formulir untuk hapus data</li>
-	<li>database
-		<ul>
-			<li>db_anggota.sql : database proyek ini</li>
-		</ul>
-	</li>
-	<li>phpCode
-		<ul>
-			<li>action_t_pegawai.php : file ini berisikan fungsi untuk tambah, hapus dan ubah data.</li>
-			<li>queryCode.php: file ini berisi fungsi untuk membuat koneksi, tambah, hapus, ubah, dan ambil data.</li> 
-		</ul>
-	</li>
-	<li>plugins</li>
-	<li>bootstrap</li>
-	<li>readme.txt</li>
-</ul>
+## Informasi tentang proyek ini
+- Proyek ini menggunakan database mysql (kamu bisa mengecek file sql pada folder database).
+- Buat, ubah, ambil, dan hapus data menggunakan php native dengan fungsi mysqli.
+- Menampilkan data pada tabel menggunakan datatables server side.
+- Sebelum memasukan data kedalam datatables, data diubah dalam bentu json.
+- Proyek ini menggunakan template bootstrap.
+
+## Struktur file dan folder pada proyek ini
+
+- index.php : Tampilan utama
+- add.php : Formulir untuk tambah data
+- update.php : Formulir untuk ubah data
+- delete.php : Formulir untuk hapus data
+- database
+	- db_anggota.sql : database proyek ini
+- phpCode
+	- action_t_pegawai.php : file ini berisikan fungsi untuk tambah, hapus dan ubah data.
+	- queryCode.php: file ini berisi fungsi untuk membuat koneksi, tambah, hapus, ubah, dan ambil data. 
+- plugins
+- bootstrap
+- readme.txt
+
+
+## Copyright and License
+
+Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
